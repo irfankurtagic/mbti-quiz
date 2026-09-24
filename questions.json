@@ -1,0 +1,642 @@
+[
+  {
+    "question": "What does MBTI stand for?",
+    "choice1": "Myers-Briggs Type Indicator",
+    "choice2": "Mental Behavioral Type Index",
+    "choice3": "Motivational Behavior Trait Inventory",
+    "choice4": "Multi-Brain Type Identifier",
+    "answer": 1
+  },
+  {
+    "question": "How many personality types are there in the MBTI system?",
+    "choice1": "8",
+    "choice2": "12",
+    "choice3": "16",
+    "choice4": "32",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is one of the four MBTI dichotomies?",
+    "choice1": "Optimism vs. Pessimism",
+    "choice2": "Extraversion vs. Introversion",
+    "choice3": "Dominant vs. Submissive",
+    "choice4": "Creative vs. Analytical",
+    "answer": 2
+  },
+  {
+    "question": "What does the letter 'N' stand for in MBTI?",
+    "choice1": "Neuroticism",
+    "choice2": "Intuition",
+    "choice3": "Natural",
+    "choice4": "Nonconformist",
+    "answer": 2
+  },
+  {
+    "question": "What does the letter 'S' stand for in MBTI?",
+    "choice1": "Sensing",
+    "choice2": "Sociable",
+    "choice3": "Structured",
+    "choice4": "Sensitive",
+    "answer": 1
+  },
+  {
+    "question": "What does the letter 'T' stand for in MBTI?",
+    "choice1": "Tolerant",
+    "choice2": "Thinking",
+    "choice3": "Tenacious",
+    "choice4": "Traditional",
+    "answer": 2
+  },
+  {
+    "question": "What does the letter 'F' stand for in MBTI?",
+    "choice1": "Feeling",
+    "choice2": "Focused",
+    "choice3": "Flexible",
+    "choice4": "Fearless",
+    "answer": 1
+  },
+  {
+    "question": "What does the letter 'J' stand for in MBTI?",
+    "choice1": "Judging",
+    "choice2": "Joyful",
+    "choice3": "Just",
+    "choice4": "Jovial",
+    "answer": 1
+  },
+  {
+    "question": "What does the letter 'P' stand for in MBTI?",
+    "choice1": "Perceiving",
+    "choice2": "Practical",
+    "choice3": "Passionate",
+    "choice4": "Persistent",
+    "answer": 1
+  },
+  {
+    "question": "Which preference pair deals with how people orient their energy?",
+    "choice1": "Sensing vs. Intuition",
+    "choice2": "Thinking vs. Feeling",
+    "choice3": "Extraversion vs. Introversion",
+    "choice4": "Judging vs. Perceiving",
+    "answer": 3
+  },
+  {
+    "question": "Which preference pair deals with how people take in information?",
+    "choice1": "Extraversion vs. Introversion",
+    "choice2": "Sensing vs. Intuition",
+    "choice3": "Thinking vs. Feeling",
+    "choice4": "Judging vs. Perceiving",
+    "answer": 2
+  },
+  {
+    "question": "Which preference pair deals with how people make decisions?",
+    "choice1": "Sensing vs. Intuition",
+    "choice2": "Extraversion vs. Introversion",
+    "choice3": "Thinking vs. Feeling",
+    "choice4": "Judging vs. Perceiving",
+    "answer": 3
+  },
+  {
+    "question": "Which preference pair deals with how people prefer to live their outer life (structure vs. flexibility)?",
+    "choice1": "Judging vs. Perceiving",
+    "choice2": "Thinking vs. Feeling",
+    "choice3": "Sensing vs. Intuition",
+    "choice4": "Extraversion vs. Introversion",
+    "answer": 1
+  },
+  {
+    "question": "People who prefer Extraversion typically:",
+    "choice1": "Gain energy from solitude and reflection",
+    "choice2": "Gain energy from interaction with the outer world",
+    "choice3": "Prefer abstract ideas over concrete facts",
+    "choice4": "Prefer flexible, spontaneous lifestyles",
+    "answer": 2
+  },
+  {
+    "question": "People who prefer Introversion typically:",
+    "choice1": "Prefer to focus on the outer world of people and activities",
+    "choice2": "Gain energy from the outer world",
+    "choice3": "Prefer depth over breadth in interactions and gain energy from solitude",
+    "choice4": "Always dislike social situations",
+    "answer": 3
+  },
+  {
+    "question": "Sensing types tend to focus more on:",
+    "choice1": "Future possibilities and abstract patterns",
+    "choice2": "Concrete facts, details, and present realities",
+    "choice3": "Logical analysis over personal values",
+    "choice4": "Keeping options open",
+    "answer": 2
+  },
+  {
+    "question": "Intuitive (N) types tend to focus more on:",
+    "choice1": "Immediate sensory details",
+    "choice2": "Practical, hands-on experience",
+    "choice3": "Patterns, meanings, and future possibilities",
+    "choice4": "Established routines",
+    "answer": 3
+  },
+  {
+    "question": "Thinking (T) types generally prefer to make decisions based on:",
+    "choice1": "Personal values and impact on people",
+    "choice2": "Logic, objective criteria, and consistency",
+    "choice3": "How others will feel",
+    "choice4": "Tradition and harmony",
+    "answer": 2
+  },
+  {
+    "question": "Feeling (F) types generally prefer to make decisions based on:",
+    "choice1": "Impersonal logic and efficiency",
+    "choice2": "What is most practical",
+    "choice3": "Personal values and how the decision affects people",
+    "choice4": "Strict rules only",
+    "answer": 3
+  },
+  {
+    "question": "Judging (J) types typically prefer:",
+    "choice1": "Keeping options open and adapting as they go",
+    "choice2": "A planned, organized approach and decisive closure",
+    "choice3": "Spontaneous changes of plan",
+    "choice4": "Avoiding schedules",
+    "answer": 2
+  },
+  {
+    "question": "Perceiving (P) types typically prefer:",
+    "choice1": "Structure, deadlines, and early decisions",
+    "choice2": "Flexibility, spontaneity, and keeping options open",
+    "choice3": "Strict routines",
+    "choice4": "Making plans far in advance",
+    "answer": 2
+  },
+  {
+    "question": "Which type is often described as the 'Architect' or strategic mastermind?",
+    "choice1": "ENFP",
+    "choice2": "INTJ",
+    "choice3": "ESFP",
+    "choice4": "ISFJ",
+    "answer": 2
+  },
+  {
+    "question": "Which type is often described as the 'Campaigner' or enthusiastic idealist?",
+    "choice1": "INTJ",
+    "choice2": "ISTJ",
+    "choice3": "ENFP",
+    "choice4": "ESTJ",
+    "answer": 3
+  },
+  {
+    "question": "Which type is often called the 'Logistician' and values reliability and duty?",
+    "choice1": "ISTJ",
+    "choice2": "ENFP",
+    "choice3": "INFP",
+    "choice4": "ENTP",
+    "answer": 1
+  },
+  {
+    "question": "Which type is often called the 'Advocate' and is idealistic and value-driven?",
+    "choice1": "ESTJ",
+    "choice2": "INFP",
+    "choice3": "ESTP",
+    "choice4": "ISTP",
+    "answer": 2
+  },
+  {
+    "question": "What is the dominant cognitive function of an INTJ?",
+    "choice1": "Extraverted Thinking (Te)",
+    "choice2": "Introverted Intuition (Ni)",
+    "choice3": "Extraverted Feeling (Fe)",
+    "choice4": "Introverted Sensing (Si)",
+    "answer": 2
+  },
+  {
+    "question": "What is the dominant cognitive function of an ENFP?",
+    "choice1": "Introverted Feeling (Fi)",
+    "choice2": "Extraverted Intuition (Ne)",
+    "choice3": "Introverted Thinking (Ti)",
+    "choice4": "Extraverted Sensing (Se)",
+    "answer": 2
+  },
+  {
+    "question": "What is the dominant cognitive function of an ISTJ?",
+    "choice1": "Introverted Sensing (Si)",
+    "choice2": "Extraverted Intuition (Ne)",
+    "choice3": "Introverted Feeling (Fi)",
+    "choice4": "Extraverted Thinking (Te)",
+    "answer": 1
+  },
+  {
+    "question": "Which of these is a common nickname for the INFJ type?",
+    "choice1": "The Executive",
+    "choice2": "The Advocate / Counselor",
+    "choice3": "The Entrepreneur",
+    "choice4": "The Entertainer",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a common nickname for the ENTP type?",
+    "choice1": "The Debater / Visionary",
+    "choice2": "The Defender",
+    "choice3": "The Consul",
+    "choice4": "The Adventurer",
+    "answer": 1
+  },
+  {
+    "question": "True or False style (choose the correct statement): MBTI types are fixed and never change.",
+    "choice1": "True - your type is permanent once determined",
+    "choice2": "False - preferences can shift somewhat with growth, stress, or environment, though core preferences tend to be stable",
+    "choice3": "True - the test is 100% accurate for life",
+    "choice4": "False - MBTI has no scientific basis whatsoever",
+    "answer": 2
+  },
+  {
+    "question": "Which dichotomy is most closely related to whether someone prefers a planned or flexible lifestyle?",
+    "choice1": "E/I",
+    "choice2": "S/N",
+    "choice3": "T/F",
+    "choice4": "J/P",
+    "answer": 4
+  },
+  {
+    "question": "An ESFP is often described as:",
+    "choice1": "The quiet strategist",
+    "choice2": "The spontaneous entertainer / performer",
+    "choice3": "The analytical scientist",
+    "choice4": "The structured administrator",
+    "answer": 2
+  },
+  {
+    "question": "Which type is known for being highly analytical, independent, and systems-oriented?",
+    "choice1": "ESFJ",
+    "choice2": "INTP",
+    "choice3": "ISFP",
+    "choice4": "ENFJ",
+    "answer": 2
+  },
+  {
+    "question": "The four MBTI preference pairs produce how many possible type combinations?",
+    "choice1": "8",
+    "choice2": "12",
+    "choice3": "16",
+    "choice4": "24",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT one of the 16 MBTI types?",
+    "choice1": "INTJ",
+    "choice2": "ESFP",
+    "choice3": "INFT",
+    "choice4": "ESTJ",
+    "answer": 3
+  },
+  {
+    "question": "People with a Judging preference generally like:",
+    "choice1": "Leaving decisions open as long as possible",
+    "choice2": "Having things decided and organized",
+    "choice3": "Constant last-minute changes",
+    "choice4": "Avoiding plans entirely",
+    "answer": 2
+  },
+  {
+    "question": "Which cognitive function is associated with focusing on concrete sensory details in the present moment?",
+    "choice1": "Introverted Intuition (Ni)",
+    "choice2": "Extraverted Sensing (Se)",
+    "choice3": "Introverted Feeling (Fi)",
+    "choice4": "Extraverted Thinking (Te)",
+    "answer": 2
+  },
+  {
+    "question": "Which type is frequently associated with strong organizational skills and leadership in structured environments?",
+    "choice1": "INFP",
+    "choice2": "ESTJ",
+    "choice3": "ISFP",
+    "choice4": "ENTP",
+    "answer": 2
+  },
+  {
+    "question": "The 'I' in MBTI primarily indicates a preference for:",
+    "choice1": "Being shy in all situations",
+    "choice2": "Directing energy inward and preferring reflection",
+    "choice3": "Disliking people",
+    "choice4": "Avoiding all social interaction",
+    "answer": 2
+  },
+  {
+    "question": "Which two types share the exact same cognitive function stack, just in reverse order of extraversion/introversion?",
+    "choice1": "INTJ and ENTJ",
+    "choice2": "INFP and ENFP",
+    "choice3": "ISTP and ESTP",
+    "choice4": "All of the above",
+    "answer": 4
+  },
+  {
+    "question": "What is the classic 'grip' stress reaction for an INTJ or INFJ?",
+    "choice1": "Obsessive over-planning and rigidity",
+    "choice2": "Sudden immersion in sensory excess or impulsive physical activity (inferior Se)",
+    "choice3": "Emotional outbursts and people-pleasing",
+    "choice4": "Endless abstract theorizing",
+    "answer": 2
+  },
+  {
+    "question": "An ENFP or ENTP in a prolonged Ne-Te (or Ne-Fe) loop is most likely to:",
+    "choice1": "Become extremely focused and decisive",
+    "choice2": "Chase endless possibilities while neglecting personal values or practical follow-through",
+    "choice3": "Withdraw completely into solitude",
+    "choice4": "Become highly traditional and rule-bound",
+    "answer": 2
+  },
+  {
+    "question": "Which function is primarily concerned with internal, subjective values and authenticity?",
+    "choice1": "Extraverted Feeling (Fe)",
+    "choice2": "Introverted Feeling (Fi)",
+    "choice3": "Introverted Thinking (Ti)",
+    "choice4": "Extraverted Thinking (Te)",
+    "answer": 2
+  },
+  {
+    "question": "Which function seeks external harmony, social cohesion, and appropriate emotional expression?",
+    "choice1": "Introverted Feeling (Fi)",
+    "choice2": "Extraverted Feeling (Fe)",
+    "choice3": "Introverted Intuition (Ni)",
+    "choice4": "Extraverted Sensing (Se)",
+    "answer": 2
+  },
+  {
+    "question": "The tertiary function is often called the 'child' or 'relief' function. For an ISTJ, what is it?",
+    "choice1": "Extraverted Intuition (Ne)",
+    "choice2": "Introverted Feeling (Fi)",
+    "choice3": "Extraverted Feeling (Fe)",
+    "choice4": "Introverted Intuition (Ni)",
+    "answer": 2
+  },
+  {
+    "question": "Which pair of types is most frequently mistyped for each other because both can appear quiet, principled, and idealistic?",
+    "choice1": "INTJ and INTP",
+    "choice2": "INFP and ISFP",
+    "choice3": "INFJ and INFP",
+    "choice4": "ISTJ and ISFJ",
+    "answer": 3
+  },
+  {
+    "question": "A person who constantly seeks the most efficient system, creates external order, and measures success by objective results is heavily using:",
+    "choice1": "Introverted Thinking (Ti)",
+    "choice2": "Extraverted Thinking (Te)",
+    "choice3": "Introverted Feeling (Fi)",
+    "choice4": "Extraverted Intuition (Ne)",
+    "answer": 2
+  },
+  {
+    "question": "Which function is most associated with 'what if' brainstorming, pattern recognition across unrelated domains, and generating multiple possibilities?",
+    "choice1": "Introverted Intuition (Ni)",
+    "choice2": "Extraverted Intuition (Ne)",
+    "choice3": "Extraverted Sensing (Se)",
+    "choice4": "Introverted Sensing (Si)",
+    "answer": 2
+  },
+  {
+    "question": "Introverted Intuition (Ni) is best described as:",
+    "choice1": "Scanning the environment for immediate sensory data",
+    "choice2": "Converging on a single underlying meaning or future implication from complex information",
+    "choice3": "Recalling detailed past experiences and comparing them to the present",
+    "choice4": "Maintaining group emotional harmony",
+    "answer": 2
+  },
+  {
+    "question": "Which type is statistically one of the rarest in most population studies?",
+    "choice1": "ISFJ",
+    "choice2": "ESFJ",
+    "choice3": "INFJ",
+    "choice4": "ESTJ",
+    "answer": 3
+  },
+  {
+    "question": "When an ISTP or INTP falls into a Ti-Ni (or Ti-Si) loop, they often:",
+    "choice1": "Become highly socially engaged and expressive",
+    "choice2": "Over-analyze internally while losing touch with external action or new data",
+    "choice3": "Seek constant sensory stimulation",
+    "choice4": "Prioritize group consensus above all",
+    "answer": 2
+  },
+  {
+    "question": "Extraverted Sensing (Se) dominant types (ESTP & ESFP) typically excel at:",
+    "choice1": "Long-term abstract forecasting",
+    "choice2": "Reading and responding to the immediate physical and social environment in real time",
+    "choice3": "Building detailed internal value systems",
+    "choice4": "Creating highly structured long-range plans",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a common difference between Fi and Ti users when under pressure to explain their reasoning?",
+    "choice1": "Fi users usually provide clear, step-by-step logical proofs",
+    "choice2": "Ti users can often articulate precise internal logical frameworks; Fi users may struggle to translate personal values into universal logic",
+    "choice3": "Both functions produce identical external communication styles",
+    "choice4": "Fi is purely emotional while Ti is purely cold",
+    "answer": 2
+  },
+  {
+    "question": "The 'critical parent' or critic function in Beebe's eight-function model is the:",
+    "choice1": "Dominant function",
+    "choice2": "Inferior function",
+    "choice3": "Opposing/critical function (5th)",
+    "choice4": "Trickster function",
+    "answer": 3
+  },
+  {
+    "question": "Which two types are most likely to engage in lengthy, abstract theoretical debates for pure enjoyment?",
+    "choice1": "ISFP and ESFP",
+    "choice2": "INTP and ENTP",
+    "choice3": "ISTJ and ESTJ",
+    "choice4": "ISFJ and ESFJ",
+    "answer": 2
+  },
+  {
+    "question": "A key distinction between Ni and Si is that:",
+    "choice1": "Ni is concrete and Si is abstract",
+    "choice2": "Si relies on personal past sensory impressions for reliability, while Ni synthesizes toward singular future-oriented insights",
+    "choice3": "Both functions operate identically in the external world",
+    "choice4": "Si is always inaccurate while Ni is always accurate",
+    "answer": 2
+  },
+  {
+    "question": "Which type combination is often described as having the most natural mutual understanding of each other's cognitive processes (same functions, mirrored attitudes)?",
+    "choice1": "INTJ and ENFP",
+    "choice2": "INTJ and ENTP",
+    "choice3": "INFJ and ESTP",
+    "choice4": "ISTJ and ESFP",
+    "answer": 1
+  },
+  {
+    "question": "In type dynamics, the inferior function tends to be:",
+    "choice1": "The most conscious and controlled",
+    "choice2": "The least differentiated and most likely to erupt under prolonged stress",
+    "choice3": "Completely inaccessible",
+    "choice4": "Identical to the dominant function",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a classic sign of an Fe-inferior grip (common in ITPs)?",
+    "choice1": "Hyper-productive organizing of the external environment",
+    "choice2": "Sudden hypersensitivity to social rejection or awkward, exaggerated emotional displays",
+    "choice3": "Obsessive focus on future visions",
+    "choice4": "Withdrawal into pure sensory pleasure",
+    "answer": 2
+  },
+  {
+    "question": "Myers and Briggs built upon Carl Jung's work primarily by:",
+    "choice1": "Rejecting the concept of cognitive functions",
+    "choice2": "Adding the Judging/Perceiving preference and creating a practical typing instrument",
+    "choice3": "Focusing exclusively on the Big Five traits",
+    "choice4": "Eliminating the Extraversion/Introversion dichotomy",
+    "answer": 2
+  },
+  {
+    "question": "Which function pair creates the most natural tension inside a single type's stack (dominant vs. inferior)?",
+    "choice1": "Ne and Si",
+    "choice2": "Te and Fi",
+    "choice3": "Both 1 and 2 are classic opposition pairs",
+    "choice4": "Fe and Te",
+    "answer": 3
+  },
+  {
+    "question": "An ESTJ under extreme stress may temporarily look like a troubled:",
+    "choice1": "INFP (Fi grip)",
+    "choice2": "INTP",
+    "choice3": "ENFP",
+    "choice4": "ISFP",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following best describes the difference between Te and Ti decision-making?",
+    "choice1": "Te seeks internal logical consistency; Ti seeks external measurable results",
+    "choice2": "Te organizes the external world according to efficient systems; Ti refines internal logical models for precision",
+    "choice3": "There is no meaningful difference",
+    "choice4": "Te is emotional while Ti is not",
+    "answer": 2
+  },
+  {
+    "question": "Types with dominant Perceiving functions (xxPx) generally have their Judging function as:",
+    "choice1": "Dominant",
+    "choice2": "Auxiliary",
+    "choice3": "Tertiary or inferior",
+    "choice4": "Absent",
+    "answer": 2
+  },
+  {
+    "question": "A person who is quick to notice small changes in their physical environment, enjoys hands-on troubleshooting, and lives heavily in the present moment is likely leading with:",
+    "choice1": "Introverted Intuition",
+    "choice2": "Extraverted Sensing",
+    "choice3": "Introverted Feeling",
+    "choice4": "Extraverted Thinking",
+    "answer": 2
+  },
+  {
+    "question": "Which of these is a well-documented limitation of the MBTI when used in high-stakes settings?",
+    "choice1": "It has perfect test-retest reliability",
+    "choice2": "Dichotomous scoring can force people near the midline into one side, and the instrument was not designed as a clinical diagnostic tool",
+    "choice3": "It measures ability rather than preference",
+    "choice4": "It has no theoretical foundation",
+    "answer": 2
+  },
+  {
+    "question": "The concept of 'function attitudes' (introverted vs. extraverted versions of the same function) originates primarily from:",
+    "choice1": "Modern internet typology",
+    "choice2": "Carl Jung's Psychological Types",
+    "choice3": "The Big Five model",
+    "choice4": "Socionics only",
+    "answer": 2
+  },
+  {
+    "question": "Which type is most likely to use humor, debate, and devil's advocacy as a primary way of exploring ideas and connecting with others?",
+    "choice1": "ISFJ",
+    "choice2": "ENTP",
+    "choice3": "ISTJ",
+    "choice4": "ESFJ",
+    "answer": 2
+  },
+  {
+    "question": "In the classic four-function model, the auxiliary function's main role is to:",
+    "choice1": "Undermine the dominant function",
+    "choice2": "Support and balance the dominant function by providing the opposite attitude (E/I)",
+    "choice3": "Remain completely unconscious",
+    "choice4": "Serve only under stress",
+    "answer": 2
+  },
+  {
+    "question": "A common mistype occurs when an underdeveloped INFJ or INTJ is typed as:",
+    "choice1": "ESFP",
+    "choice2": "ISTP or INTP (because of temporary reliance on tertiary or stress-related thinking)",
+    "choice3": "ESFJ",
+    "choice4": "ESTP",
+    "answer": 2
+  },
+  {
+    "question": "Which function is most tied to maintaining internal and external traditions, comparing present experiences to a detailed personal library of the past?",
+    "choice1": "Extraverted Intuition (Ne)",
+    "choice2": "Introverted Sensing (Si)",
+    "choice3": "Extraverted Feeling (Fe)",
+    "choice4": "Introverted Intuition (Ni)",
+    "answer": 2
+  },
+  {
+    "question": "When healthy, the tertiary function often provides:",
+    "choice1": "The primary lens for all decisions",
+    "choice2": "Relief, playfulness, and a secondary source of energy or creativity",
+    "choice3": "Constant criticism of the self",
+    "choice4": "No useful role",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following pairings creates complementary (not identical) function stacks that often produce strong mutual attraction or effective teamwork?",
+    "choice1": "INTJ and INFJ",
+    "choice2": "INTJ and ESFP",
+    "choice3": "INTJ and ENTJ",
+    "choice4": "INFP and ISFP",
+    "answer": 2
+  },
+  {
+    "question": "An ESFJ or ENFJ in an Fe-Se loop may temporarily neglect:",
+    "choice1": "Social obligations",
+    "choice2": "Long-term vision or internal analysis in favor of immediate social and sensory engagement",
+    "choice3": "All external activity",
+    "choice4": "Caring about people",
+    "answer": 2
+  },
+  {
+    "question": "The term 'shadow functions' in extended typology models generally refers to:",
+    "choice1": "The four primary functions only",
+    "choice2": "The four functions that are less conscious and often projected or defensive (5th–8th)",
+    "choice3": "Only the inferior function",
+    "choice4": "Functions that do not exist",
+    "answer": 2
+  },
+  {
+    "question": "Which type is frequently described as having a 'silent intensity' and a future-oriented inner world that can be difficult to articulate in real time?",
+    "choice1": "ESFP",
+    "choice2": "INFJ or INTJ",
+    "choice3": "ESTP",
+    "choice4": "ESFJ",
+    "answer": 2
+  },
+  {
+    "question": "A practical way to distinguish dominant Ni users from dominant Ne users is that Ni users tend to:",
+    "choice1": "Generate many simultaneous possibilities out loud",
+    "choice2": "Converge privately on one or a few insights and may appear more certain or singular in vision",
+    "choice3": "Focus exclusively on past details",
+    "choice4": "Avoid all abstract thought",
+    "answer": 2
+  },
+  {
+    "question": "Which of these statements about MBTI and the Big Five is most accurate?",
+    "choice1": "They measure exactly the same constructs with different names",
+    "choice2": "There is moderate correlation (especially E/I with Extraversion and N/S with Openness), but MBTI is preference-based and ipsative while Big Five is trait-based and continuous",
+    "choice3": "MBTI has higher predictive validity for job performance",
+    "choice4": "Big Five is purely pseudoscience while MBTI is not",
+    "answer": 2
+  },
+  {
+    "question": "In Beebe's model, the 'trickster' function (7th) often manifests as:",
+    "choice1": "Reliable strength",
+    "choice2": "Double-binding, mischievous, or paradoxical behavior that can undermine the self or others",
+    "choice3": "The main decision-making tool",
+    "choice4": "Complete unconsciousness with no expression",
+    "answer": 2
+  }
+]
