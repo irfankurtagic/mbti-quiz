@@ -1,8 +1,8 @@
 :root {
   background: url(/mbti-quiz/tree-light.png);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom left;
+  background-position: bottom center;
+  background-size: contain;
   background-color: #ecf5ff;
 }
 
@@ -131,15 +131,15 @@ input::placeholder {
 
 
 
-
 @media (prefers-color-scheme: dark) {
   :root {
-    background: url(/mbti-quiz/tree.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom left;
     background-color: #0f0f0f;
+    background-image: url("/mbti-quiz/tree.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
   }
+
 
   * {
     color: hsla(0, 0%, 100%, 0.9);
