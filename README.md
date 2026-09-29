@@ -2,7 +2,7 @@
 
 Test your MBTI knowledge. Interactive **MBTI personality quiz** with around 150 questions.
 
-## 🔗 Play
+## 🕹️ Play
 
 **[Play the MBTI Quiz](https://irfankurtagic.github.io/mbti-quiz/)**
 
